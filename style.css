@@ -1,0 +1,242 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+Html {
+	background-color:#feffe2; }
+
+
+body {
+	background-color: #feffe2;
+	Margin:50px;
+	outline-color: #8bd6d6;
+	color: seagreen;
+	text-align: center;
+	font-family: garamond;
+
+}
+
+.card
+{background-color: #8bd6d6;
+margin: 10px;
+}
+
+.jumbotron
+{text-align: center;
+color: #feffe2;
+background-color: seagreen;
+height: 270px;
+outline-color: #8bd6d6;
+outline-style: groove;
+outline-width: 10px;
+padding: 20px;
+margin-bottom: 20px;
+
+}
+
+.btn-primary
+{background-color: #feffe2;
+color: seagreen;
+}
+
+
+.button
+{background-color: #feffe2;}
+
+.Bahamas-section {
+		margin-top: 10px;
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: seagreen;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+
+.Jamaica-section {
+		margin-top: 10px;
+	
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: #8bd6d6;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+
+.Punta-section
+{
+		margin-top: 10px;
+	
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: #8bd6d6;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+.Jacksonville-section{
+		margin-top: 10px;
+	
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: #8bd6d6;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+.Aruba-section
+{
+		margin-top: 10px;
+	
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: #8bd6d6;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+
+.FortLauderdale-section
+{
+		margin-top: 10px;
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: #8bd6d6;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+
+.Nashville-section
+{
+		margin-top: 10px;
+	
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: #8bd6d6;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+.Miami-section
+{
+		margin-top: 10px;
+	
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: #8bd6d6;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+
+nav {
+
+}
+
+.nav-link
+{
+	background-color:#feffe2 ;
+font-family: garamond;
+text-align: center;
+}
+
+
+
+header
+{background-color: #feffe2;
+	color: seagreen;
+
+}
+.navbar-brand {
+  background-color: white;
+  font-family: garamond;
+
+
+}
+
+
+h1
+{ color: seagreen;
+	font-family: garamond;
+	text-align: center;
+	background-color: seagreen;
+	
+	
+}
+
+p
+{color: seagreen;}
+
+.lead
+{color: #feffe2;
+font-family: garamond;
+}
+
+.carousel
+{
+		margin-top: 10px;
+	
+	margin-bottom: 50px;
+  background-color:#feffe2;
+  outline-color: seagreen;
+	color: seagreen;
+	outline-style: dashed;
+	outline-width: 10px;
+	font-family: garamond;
+	padding-bottom: 10px;
+}
+
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+	margin-top: 750px;
+    height: 50px;
+    width: 50px;
+    outline: seagreen;
+    background-color: seagreen;
+    background-size: 50%, 50%;
+    border-radius: 50%;
+    border: seagreen;
+    align-items: center;
+}
+
+ul
+{
+font-family: garamond;
+list-style: none;
+
+}
+
+h2
+{color: seagreen;
+	text-align: center;
+	font-family: garamond;
+}
+
+h3
+{color: seagreen;
+font-family: garamond;}
+
+a
+{Color: #feffe2;
+	font-family: garamond;
+}
+
+footer
+{background-color: #feffe2;
+color: seagreen;
+font-family: garamond;}
